@@ -1,0 +1,10 @@
+{
+    "include": [
+        {
+            "keyboard": "1742638101828",
+            "keymap": "vial",
+            "target": "uf2",
+            "name": "1742638101828_vial"
+        }
+    ]
+}
